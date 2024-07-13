@@ -1,0 +1,9 @@
+name: BlocksFallFromTheSky
+version: '1.0-SNAPSHOT'
+main: me.stiln.manhunt.blocksfallfromthesky.Main
+api-version: 1.19
+
+commands:
+  fallingblocks:
+    usage: /<command> (start|stop)
+    permission: permission.fallingblocks
